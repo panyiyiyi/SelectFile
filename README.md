@@ -6,3 +6,4 @@ android图片选择器
 ③将查询出来的图片全部显示的时候，需要防止内存溢出，这是用来一个网上的优化工具类，挺好用的。
 ④当选择好图片的时候，只需要在Activity显示出选择的集合就可以了。
 效果实现如下
+![image](https://github.com/panyiyiyi/SelectFile/blob/master/test1.gif)
